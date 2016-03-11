@@ -12,10 +12,11 @@ A much simpler way than HTML to MarkUp text files whilst creating them on the *f
 
 Here are a few sites where it's possible to go to learn more; and, even practice learning how to use Markdown syntax online inside of the actual web browser itself.
 
-- https://daringfireball.net/projects/markdown/
+- [Daringfireball](https://daringfireball.net/projects/markdown/ 'The original inventor of the language web site') 
 - https://daringfireball.net/projects/markdown/dingus
 - http://www.markable.in
 - https://draftin.com/
+- http://markdownpad.com/
 
 ### FOOTNOTE(S)
 
