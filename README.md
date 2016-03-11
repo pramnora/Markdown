@@ -10,10 +10,12 @@ Markdown language files use plain text. The Markdown language is simple, quick a
 
 Here are a few sites where it's possible to go to learn more; and, even practice learning how to use Markdown syntax online inside of the web browser itself.
 
--https://daringfireball.net/projects/markdown/
--https://daringfireball.net/projects/markdown/dingus
--http://www.markable.in
--https://draftin.com/
+- https://daringfireball.net/projects/markdown/
+- https://daringfireball.net/projects/markdown/dingus
+- http://www.markable.in
+- https://draftin.com/
 
-**NOTE**: Markdown files end with a filename extension of (.md)
+### FOOTNOTE(S)
+
+- Markdown files end with a filename extension of (.md)
 
