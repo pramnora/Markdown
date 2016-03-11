@@ -1,2 +1,2 @@
 # Markdown
-Markdown, a simpler way to MarkUp files
+Markdown, for a much simpler way to MarkUp text files on the fly..
