@@ -20,3 +20,5 @@
 - Exactly, the same as above...; only with a exclamation mark: (!) to start the link.
 
 -----
+
+-(**NOTE**: In order to understand this...you need to view the *image-1.md* 'source code'.)-  
