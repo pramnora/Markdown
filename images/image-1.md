@@ -17,4 +17,6 @@
 
 ![Dove of peace](dove-of-peace.jpg "Street Graffiti: Streatham, London, UK: image: dove of peace")
 
+- Exactly, the same as above...; only with a exclamation mark: (!) to start the link.
+
 -----
