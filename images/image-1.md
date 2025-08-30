@@ -21,4 +21,4 @@
 
 -----
 
--(**NOTE**: In order to understand this...you need to view the *image-1.md* 'source code'.)-  
+-(**NOTE**: In order to understand this...you need to view the file: [image-1.md] *source code*.)-  
